@@ -23,6 +23,7 @@ theme = "smol"
 
 # Parameters
 [params]
+    description = "my nerd corner, notes and dev logs directly from my obsidian vault"
     author = "betoissues"
     dateFmt = "2006.02.01"
     customCss = ["css/custom.css"]
@@ -53,3 +54,9 @@ theme = "smol"
     url = "https://www.betoissues.com"
     name = "main blog"
     weight = 3
+
+[outputs]
+  home = ['html', 'rss']
+  section = ['html', 'rss']
+  taxonomy = []
+  term = []
