@@ -1,6 +1,7 @@
 +++
 tags = ['published']
 title = 'Concurrency'
+url = '/concurrency'
 +++
 
 ## Actor Model
@@ -94,7 +95,7 @@ P1_gate: turn = 0;
 Semaphores "hold" the resources available and *lends* them to threads so they can access them for a limited period of time, while other threads wait for their required resources to be available [^5].
 
 [^1]: [Actor model - Wikipedia](https://en.wikipedia.org/wiki/Actor_model#Message-passing_semantics)
-    [^2]: [Interrupt Handlers](https://tldp.org/LDP/lkmpg/2.6/html/x1256.html)
-    [^3]: [E.W.Dijkstra Archive: Cooperating sequential processes (EWD 123)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD01xx/EWD123.html)
-    [^4]: [Peterson's algorithm - Wikipedia](https://en.wikipedia.org/wiki/Peterson%27s_algorithm)
-    [^5]: [Implementing a Read/Write Mutex](https://doc.qt.io/archives/qq/qq11-mutex.html)
+[^2]: [Interrupt Handlers](https://tldp.org/LDP/lkmpg/2.6/html/x1256.html)
+[^3]: [E.W.Dijkstra Archive: Cooperating sequential processes (EWD 123)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD01xx/EWD123.html)
+[^4]: [Peterson's algorithm - Wikipedia](https://en.wikipedia.org/wiki/Peterson%27s_algorithm)
+[^5]: [Implementing a Read/Write Mutex](https://doc.qt.io/archives/qq/qq11-mutex.html)

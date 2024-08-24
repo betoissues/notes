@@ -1,12 +1,21 @@
 {{ define "main" }}
 	<main>
-	    {{ range .Site.RegularPages.GroupBy "Section" }}
-        <p>{{ .Key }}</p>
+	    This is my low profile corner of the web where I document more technical stuff and publish some of my notes directly from my Obsidian vault.
+	    {{ $pages := where site.RegularPages "Section" "log" }}
+	    <h2>recent logs</h2>
         <ul>
-            {{ range .Pages.ByTitle }}
+            {{ range first 5 $pages.ByTitle }}
+            <li><a href="{{ .RelPermalink }}">{{ .Date | time.Format ":date_medium"}}: {{ .LinkTitle }}</a></li>
+            {{ end }}
+        </ul>
+        <a href="/log">more logs...</a>
+	    {{ $pages := where site.RegularPages "Section" "notes" }}
+	    <h2>notes</h2>
+        <ul>
+            {{ range first 20 $pages.ByTitle }}
             <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
             {{ end }}
         </ul>
-        {{ end }}
+        <a href="/notes">more notes...</a>
 	</main>
 {{ end }}

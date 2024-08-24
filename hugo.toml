@@ -1,28 +1,55 @@
 baseURL = 'https://notes.betoissues.com/'
 languageCode = 'en-us'
 title = "beto's notes"
-theme = 'smol'
+theme = "smol"
+#canonifyurls = true
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = true
+    noHl = false
+    style = 'solarized-dark256'
+    tabWidth = 4
 
 # Parameters
 [params]
-    dateFmt = "2006.02.01 15:04"
+    author = "betoissues"
+    dateFmt = "2006.02.01"
+    customCss = ["css/custom.css"]
 
 # Header
 [menu]
+
 [[menu.main]]
-    url = "https://www.betoissues.com"
-    name = "Blog"
+    url = "/notes"
+    name = "tech notes"
+
+[[menu.main]]
+    url = "/log"
+    name = "log"
 
 # Footer
 [[menu.footer]]
-    name = "Github"
+    name = "github"
     url = "https://github.com/betoissues"
-    weight = 1 
+    weight = 1
 
 [[menu.footer]]
-    name = "Mastodon"
+    name = "mastodon"
     url = "https://fosstodon.org/@betoisues"
-    weight = 2 
+    weight = 2
+
+[[menu.footer]]
+    url = "https://www.betoissues.com"
+    name = "main blog"
+    weight = 3

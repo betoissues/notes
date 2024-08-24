@@ -1,6 +1,12 @@
 +++
+altitude = 0
+created = '2021-01-16 02:22:13Z'
+latitude = 8.9948
+longitude = -79.523
 tags = ['published']
 title = 'DNS Configuration'
+updated = '2021-01-16 14:16:27Z'
+url = '/dns-configuration'
 +++
 
 Testing of this configurations can be made at [DNSLeakTest](https://www.dnsleaktest.com)

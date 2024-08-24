@@ -2,6 +2,7 @@
 aliases = ['SSH X Forwarding with WSL2']
 tags = ['published']
 title = 'SSH X Forwarding with WSL2'
+url = '/ssh-x-forwarding-wsl2'
 +++
 
 I had Ubuntu 18.04 LTS, so before anything I started by upgrading to 22.04 LTS (btw, `sudo apt remove --purge snapd` is useful in this scenario). Not without first facing an issue with not having connection with the Internet. Recently changed my desktop's motherboard, and this one has a built-in WiFi adapter, maybe it's related.

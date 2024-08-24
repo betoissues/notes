@@ -1,6 +1,7 @@
 +++
 tags = ['published']
 title = 'Proxmox'
+url = '/proxmox'
 +++
 
 ## Hardware Acceleration

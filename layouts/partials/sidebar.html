@@ -1,0 +1,14 @@
+<aside>
+	<div>
+		<div>
+			<h3>latest posts</h3>
+		</div>
+		<div>
+			<ul>
+				{{ range first 5 (where .Site.RegularPages "Section" "log") }}
+                <li><a href="{{ .RelPermalink }}">{{ .Date | time.Format ":date_medium"}}: {{ .LinkTitle }}</a></li>
+				{{ end }}
+			</ul>
+		</div>
+	</div>
+</aside>
