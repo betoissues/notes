@@ -4,4 +4,9 @@
 	<a href="{{ .URL }}"><b>{{ .Name }}</b></a> ∙
         {{- end }}
 	</p>
+	<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true });
+    });
+    </script>
 </footer>

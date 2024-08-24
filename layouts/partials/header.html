@@ -2,7 +2,8 @@
 	{{ strings.Repeat ( .Site.Title | len | add 6 ) "=" }}<br>
 	== <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a> ==<br>
 	{{ strings.Repeat ( .Site.Title | len | add 6 ) "=" }}
-	<div style="float: right;">{{ .Site.Params.subtitle }}</div><br>
+	<div id="search">
+	</div>
 	<p>
 	<nav>
 			<a href="/"><b>home</b></a> ∙
