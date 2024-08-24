@@ -1,0 +1,28 @@
+baseURL = 'https://notes.betoissues.com/'
+languageCode = 'en-us'
+title = "beto's notes"
+theme = 'smol'
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+
+# Parameters
+[params]
+    dateFmt = "2006.02.01 15:04"
+
+# Header
+[menu]
+[[menu.main]]
+    url = "https://www.betoissues.com"
+    name = "Blog"
+
+# Footer
+[[menu.footer]]
+    name = "Github"
+    url = "https://github.com/betoissues"
+    weight = 1 
+
+[[menu.footer]]
+    name = "Mastodon"
+    url = "https://fosstodon.org/@betoisues"
+    weight = 2 

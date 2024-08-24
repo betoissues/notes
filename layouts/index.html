@@ -1,0 +1,12 @@
+{{ define "main" }}
+	<main>
+	    {{ range .Site.RegularPages.GroupBy "Section" }}
+        <p>{{ .Key }}</p>
+        <ul>
+            {{ range .Pages.ByTitle }}
+            <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+            {{ end }}
+        </ul>
+        {{ end }}
+	</main>
+{{ end }}
