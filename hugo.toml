@@ -47,7 +47,7 @@ theme = "smol"
 
 [[menu.footer]]
     name = "mastodon"
-    url = "https://fosstodon.org/@betoisues"
+    url = "https://fosstodon.org/@betoissues"
     weight = 2
 
 [[menu.footer]]

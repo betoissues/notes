@@ -4,7 +4,7 @@
 	    {{ $pages := where site.RegularPages "Section" "log" }}
 	    <h2>recent logs</h2>
         <ul>
-            {{ range first 5 $pages.ByTitle }}
+            {{ range first 5 $pages.ByDate.Reverse }}
             <li><a href="{{ .RelPermalink }}">{{ .Date | time.Format ":date_medium"}}: {{ .LinkTitle }}</a></li>
             {{ end }}
         </ul>
