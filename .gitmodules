@@ -1,6 +1,3 @@
 [submodule "themes/smol"]
 	path = themes/smol
 	url = https://github.com/colorchestra/smol
-[submodule "themes/hugo-2-gopher-and-gemini"]
-	path = themes/hugo-2-gopher-and-gemini
-	url = https://github.com/mkamarin/Hugo-2-Gopher-and-Gemini
