@@ -1,6 +1,6 @@
 baseURL = 'https://notes.betoissues.com/'
 languageCode = 'en-us'
-title = "beto's notes"
+title = "betoissues"
 theme = "smol"
 #canonifyurls = true
 
