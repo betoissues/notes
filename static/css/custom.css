@@ -1,5 +1,5 @@
-:root { --bgcolor: white; --fontcolor: #444; --linkcolor: #00e; --visitedcolor: #551a8b; --precolor: #fff; --prebgcolor: #000;}
-@media (prefers-color-scheme: dark) { :root { --bgcolor: black; --fontcolor: white; --linkcolor: #5bf; --visitedcolor: #ae5ee0; --precolor: #fff; --prebgcolor: #383838;}}
+:root { --bgcolor: #f8f9fc; --fontcolor: #444; --linkcolor: #00e; --visitedcolor: #551a8b; --precolor: #fff; --prebgcolor: #090909; --accent: #ce521e;}
+@media (prefers-color-scheme: dark) { :root { --bgcolor: #090909; --fontcolor: white; --linkcolor: #5bf; --visitedcolor: #ae5ee0; --precolor: #fff; --prebgcolor: #383838;}}
 
 body {
     font-size: 1rem;
@@ -9,8 +9,8 @@ article {
     padding: 0.3rem 0;
 }
 
-a:visited {
-    color: var(--linkcolor);
+a, a:visited, a:link {
+    color: var(--accent);
 }
 
 .highlight pre {
@@ -21,4 +21,16 @@ a:visited {
 .list-none {
     list-style: none;
     padding-left: 0;
+}
+
+h1::before {
+    content: "# ";
+}
+
+h2::before {
+    content: "## ";
+}
+
+h3::before {
+    content: "### ";
 }

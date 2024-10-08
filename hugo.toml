@@ -32,6 +32,10 @@ theme = "smol"
 [menu]
 
 [[menu.main]]
+    url = "/links"
+    name = "links"
+
+[[menu.main]]
     url = "/notes"
     name = "tech notes"
 
