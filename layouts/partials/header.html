@@ -6,8 +6,7 @@
 	</div>
 	<p>
 	<nav>
-			<a href="/"><b>home</b></a> ∙
-			{{ with .Site.Menus.main }}
+			<a href="/"><b>home</b></a> ∙{{ with .Site.Menus.main }}
 			{{ range . }}
 			<a href="{{ .URL | relURL }}"><b>{{ .Name }}</b></a> ∙
 			{{ end }}
