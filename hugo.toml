@@ -2,10 +2,10 @@ baseURL = 'https://notes.betoissues.com/'
 languageCode = 'en-us'
 title = "betoissues"
 theme = "smol"
-#canonifyurls = true
+canonifyurls = true
 
 [markup]
-  defaultMarkdownHandler = 'goldmark'
+defaultMarkdownHandler = 'goldmark'
   [markup.highlight]
     anchorLineNos = false
     codeFences = true
@@ -17,31 +17,34 @@ theme = "smol"
     lineNos = true
     lineNumbersInTable = false
     noClasses = true
-    noHl = false
-    style = 'solarized-dark256'
+    noHl = true
+    style = 'gruvbox'
     tabWidth = 4
 
 # Parameters
 [params]
     description = "my nerd corner, notes and dev logs directly from my obsidian vault"
     author = "betoissues"
-    dateFmt = "2006.02.01"
+    dateFmt = "2006-01-02"
     customCss = ["css/custom.css"]
 
 # Header
 [menu]
 
 [[menu.main]]
-    url = "/links"
-    name = "links"
+    url = "/log"
+    name = "log"
+    weight = 1
 
 [[menu.main]]
     url = "/notes"
     name = "tech notes"
+    weight = 2
 
 [[menu.main]]
-    url = "/log"
-    name = "log"
+    url = "/links"
+    name = "links"
+    weight = 3
 
 # Footer
 [[menu.footer]]

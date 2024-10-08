@@ -4,7 +4,7 @@
 	    {{ $pages := where site.RegularPages "Section" "log" }}
 	    <h2>recent logs</h2>
         <ul class="list-none">
-            {{ range first 5 $pages.ByDate.Reverse }}
+            {{ range first 10 $pages.ByDate.Reverse }}
             <li>{{ .Date.Format "2006-01-02"}}: <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
             {{ end }}
         </ul>

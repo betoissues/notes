@@ -1,4 +1,5 @@
 +++
+title = 'home'
 +++
 
 ## about me
@@ -12,3 +13,8 @@ Not a dev nor an ops, constantly learning about different open source technologi
 - `beto` on libera.chat
 
 as @betoissues in other networks, make sure to verify with one of the above
+
+## other links
+
+- [links](/links): links to various people and communities I support.
+- [tools](/tools): tools, software, hardware, and services I use.
