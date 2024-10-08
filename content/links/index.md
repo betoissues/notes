@@ -1,7 +1,8 @@
 +++
-title = 'links'
 date = '2024-10-07'
+title = 'links'
 +++
+
 ## groups & communities
 
 * [Nixers](https://nixers.net/)

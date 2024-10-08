@@ -1,3 +1,6 @@
++++
++++
+
 ## about me
 
 Not a dev nor an ops, constantly learning about different open source technologies and how different computer systems work.
