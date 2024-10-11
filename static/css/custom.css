@@ -1,5 +1,5 @@
-:root { --bgcolor: #f8f9fc; --fontcolor: #444; --linkcolor: #00e; --visitedcolor: #551a8b; --precolor: #fff; --prebgcolor: #090909; --accent: #ce521e;}
-@media (prefers-color-scheme: dark) { :root { --bgcolor: #090909; --fontcolor: white; --linkcolor: #5bf; --visitedcolor: #ae5ee0; --precolor: #fff; --prebgcolor: #383838;}}
+:root { --bgcolor: #f8f9fc; --fontcolor: #444; --linkcolor: #00e; --visitedcolor: #551a8b; --precolor: #fff; --prebgcolor: #090909; --accent: #ce521e; --lightbg: #f4f4f4}
+@media (prefers-color-scheme: dark) { :root { --bgcolor: #090909; --fontcolor: white; --linkcolor: #5bf; --visitedcolor: #ae5ee0; --precolor: #fff; --prebgcolor: #383838; --lightbg: #1a1a1a}}
 
 body {
     max-width: 700px;
@@ -17,7 +17,7 @@ article {
         margin: 0;
         padding: 0.1em 1.2em;
         border-left: 5px solid var(--accent);
-        background-color: var(--prebgcolor);
+        background-color: var(--lightbg);
     }
 }
 
