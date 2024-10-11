@@ -16,5 +16,5 @@ as @betoissues in other networks, make sure to verify with one of the above
 
 ## other links
 
-- [links](/links): links to various people and communities I support.
-- [tools](/tools): tools, software, hardware, and services I use.
+- [links](./links.md): links to various people and communities I support.
+- [tools](./tools.md): tools, software, hardware, and services I use.

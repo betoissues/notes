@@ -2,7 +2,8 @@ baseURL = 'https://notes.betoissues.com/'
 languageCode = 'en-us'
 title = "betoissues"
 theme = "smol"
-canonifyurls = true
+enableRobotsTXT = false
+#canonifyurls = true
 
 [markup]
 defaultMarkdownHandler = 'goldmark'
@@ -32,17 +33,17 @@ defaultMarkdownHandler = 'goldmark'
 [menu]
 
 [[menu.main]]
-    url = "/log"
+    url = "/log/"
     name = "log"
     weight = 1
 
 [[menu.main]]
-    url = "/notes"
+    url = "/notes/"
     name = "tech notes"
     weight = 2
 
 [[menu.main]]
-    url = "/links"
+    url = "/links/"
     name = "links"
     weight = 3
 
