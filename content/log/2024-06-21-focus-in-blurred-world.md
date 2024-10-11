@@ -1,10 +1,9 @@
 +++
+aliases = ['/blog/focus-in-a-blurred-world']
 date = 2024-06-21
 description = 'First steps on how to create a focused environment & work smarter, not harder.'
 slug = '2024-06-21-focus-in-blurred-world'
 title = 'Focus in a Blurred World'
-aliases = ['/blog/focus-in-a-blurred-world']
-
 +++
 
 One of the first books I read this year was Deep Work by Cal Newport, which I started of curiosity thanks to the topics covered on his podcast, Deep Questions. It made me think about how to improve my concentration in a world full of distractions.
