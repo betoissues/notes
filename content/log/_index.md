@@ -1,3 +1,3 @@
 +++
-title = 'logs'
+title = 'Logs'
 +++

@@ -1,6 +1,6 @@
 +++
 date = '2024-10-07'
-title = 'links'
+title = 'Links'
 +++
 
 ## groups & communities

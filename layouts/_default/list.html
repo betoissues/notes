@@ -17,7 +17,7 @@
 		    <li>
 		        <div class="post-title">
 				{{ if eq $listtitle "Logs" }}
-				    {{ .Date.Format "2006-01-02" }} <a href="{{ .RelPermalink }}">{{.Title }}</a>
+				    {{ .Date.Format "2006-01-02" }}: <a href="{{ .RelPermalink }}">{{.Title }}</a>
 				{{ else }}
 				    <a href="{{ .RelPermalink }}">{{.Title }}</a>
 				{{ end }}

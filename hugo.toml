@@ -39,7 +39,7 @@ defaultMarkdownHandler = 'goldmark'
 
 [[menu.main]]
     url = "/notes/"
-    name = "tech notes"
+    name = "notes"
     weight = 2
 
 [[menu.main]]
