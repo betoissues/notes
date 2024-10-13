@@ -25,7 +25,7 @@ defaultMarkdownHandler = 'goldmark'
 # Parameters
 [params]
     description = "my nerd corner, notes and dev logs directly from my obsidian vault"
-    author = "betoissues"
+    author = "Alberto Castillo"
     dateFmt = "2006-01-02"
     customCss = ["css/custom.css"]
 
