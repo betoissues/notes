@@ -28,6 +28,10 @@ defaultMarkdownHandler = 'goldmark'
     author = "Alberto Castillo"
     dateFmt = "2006-01-02"
     customCss = ["css/custom.css"]
+    images = ['betoissues_default_square.png', 'profile.jpg']
+    title = 'betoissues'
+    [params.social]
+        twitter = 'betoissues'
 
 # Header
 [menu]
