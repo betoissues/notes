@@ -18,5 +18,9 @@ I'm trying to keep my websites "small" (relatively) and focus on the content as 
 I'll continue to use Grafana for a different purpose once I migrate some of my VPN exits and start hosting more small services to the outside world.
 
 [^1]: [Setting up monitoring with Grafana](./Setting%20up%20monitoring%20with%20Grafana.md)
+    
+
 [^2]: [Umami](https://umami.is/)
+    
+
 [^3]: [Pagefind -- Static low-bandwidth search at scale](https://pagefind.app/)

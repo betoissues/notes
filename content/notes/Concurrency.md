@@ -97,8 +97,18 @@ Semaphores "hold" the resources available and *lends* them to threads so they ca
 A good read about semaphores is Julie Zelenski's "Threads and Semaphores Example"[^6], outlining different examples on how semaphores are used, and the separation between a general and a binary semaphore.
 
 [^1]: [Actor model - Wikipedia](https://en.wikipedia.org/wiki/Actor_model#Message-passing_semantics)
+    
+
 [^2]: [Interrupt Handlers](https://tldp.org/LDP/lkmpg/2.6/html/x1256.html)
+    
+
 [^3]: [E.W.Dijkstra Archive: Cooperating sequential processes (EWD 123)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD01xx/EWD123.html)
+    
+
 [^4]: [Peterson's algorithm - Wikipedia](https://en.wikipedia.org/wiki/Peterson%27s_algorithm)
+    
+
 [^5]: [Implementing a Read/Write Mutex](https://doc.qt.io/archives/qq/qq11-mutex.html)
+    
+
 [^6]: [Threads and Semaphores Examples by Julie Zelenski (2008)](https://see.stanford.edu/materials/icsppcs107/23-Concurrency-Examples.pdf)

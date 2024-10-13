@@ -43,7 +43,7 @@ code, p > code {
     padding-left: 0;
 }
 
-h1::before, h2::before, h3::before {
+h1::before, h2::before, h3::before, h4::before {
     color: var(--accent);
 }
 
@@ -58,3 +58,37 @@ h2::before {
 h3::before {
     content: "### ";
 }
+
+h4::before {
+    content: "#### ";
+}
+
+/* OPENRING */
+.webring .articles {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -0.5rem;
+}
+.webring .title {
+  font-size: 1.1rem;
+  margin: 0;
+}
+.webring .article {
+  flex: 1 1 0;
+  display: flex;
+  flex-direction: column;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  background: var(--lightbg);
+  min-width: 10rem;
+  font-size: 0.8rem;
+}
+
+.webring .summary {
+  flex: 1 1 0;
+}
+
+.webring .attribution {
+  font-size: 0.8rem;
+}
+
