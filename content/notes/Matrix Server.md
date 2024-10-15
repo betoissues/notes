@@ -1,7 +1,8 @@
 +++
+aliases = ['/matrix']
+slug = 'matrix'
 tags = ['published']
 title = 'Matrix Server'
-url = '/matrix'
 +++
 
 ## Free up space in Matrix Synapse

@@ -1,7 +1,8 @@
 +++
+aliases = ['/c-programming']
+slug = 'c-programming'
 tags = ['published']
 title = 'C Programming'
-url = '/c-programming'
 +++
 
 ## Libraries

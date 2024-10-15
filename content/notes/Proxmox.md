@@ -1,7 +1,8 @@
 +++
+aliases = ['/proxmox']
+slug = 'proxmox'
 tags = ['published']
 title = 'Proxmox'
-url = '/proxmox'
 +++
 
 ## Hardware Acceleration

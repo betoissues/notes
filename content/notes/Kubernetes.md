@@ -1,8 +1,9 @@
 +++
+aliases = ['/kubernetes']
 date = '2021-05-22'
+slug = 'kubernetes'
 tags = ['published']
 title = 'Kubernetes'
-url = '/kubernetes'
 +++
 
 These notes are from when I read a bit of [Kubernetes Up & Running](https://www.oreilly.com/library/view/kubernetes-up-and/9781492046523/), so they might be outdated. Recently one of my goals has become to learn Kubernetes more in-depth, as part of it, this will be updated regularly. **Date: 2024.08.27**

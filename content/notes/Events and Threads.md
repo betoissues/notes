@@ -1,12 +1,13 @@
 +++
+aliases = ['/events-and-threads']
 altitude = 0
 created = '2020-12-07 01:35:24Z'
 latitude = 8.9948
 longitude = -79.523
+slug = 'events-and-threads'
 tags = ['published']
 title = 'Events and Threads'
 updated = '2020-12-07 22:50:08Z'
-url = '/events-and-threads'
 +++
 
 ## Event-Driven Programming

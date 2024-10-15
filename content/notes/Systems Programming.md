@@ -1,7 +1,8 @@
 +++
+aliases = ['/systems-programming']
+slug = 'systems-programming'
 tags = ['published']
 title = 'Systems Programming'
-url = '/systems-programming'
 +++
 
 ## Daemons

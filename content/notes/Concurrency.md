@@ -1,7 +1,8 @@
 +++
+aliases = ['/concurrency']
+slug = 'concurrency'
 tags = ['published']
 title = 'Concurrency'
-url = '/concurrency'
 +++
 
 ## Actor Model
