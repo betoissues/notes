@@ -5,6 +5,10 @@ tags = ['published']
 title = 'Systems Programming'
 +++
 
+
+ > 
+ > This is called "systems programming", but it's userspace at the moment. For OS level, check [Linux Kernel](./Linux%20Kernel.md).
+
 ## Daemons
 
 ### Double-fork technique
