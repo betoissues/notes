@@ -1,12 +1,9 @@
 +++
-title = "Lo que 3 años de universidad me han enseñado"
-description = "Lecciones que van más allá de lo académico."
-date = 2018-01-15 
-slug = "lecciones-de-universidad"
-aliases = [
-	"2018/01/lecciones-de-universidad",
-	"/es/blog/lecciones-de-universidad"
-]
+aliases = ['2018/01/lecciones-de-universidad', '/es/blog/lecciones-de-universidad']
+date = 2018-01-15
+description = 'Lecciones que van más allá de lo académico.'
+slug = 'lecciones-de-universidad'
+title = 'Lo que 3 años de universidad me han enseñado'
 +++
 
 Mientras escribo esto, culmino el tercer año de Licenciatura en Ingeniería de

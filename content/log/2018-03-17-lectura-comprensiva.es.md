@@ -1,12 +1,9 @@
 +++
-title = "Cómo comprender mejor lo que leemos"
-description = "La lectura comprensiva es una de las principales facultades a desarrollar si se quiere mejorar como persona y profesional..."
-date = 2018-03-17 
-slug = "lectura-comprensiva"
-aliases = [
-	"2018/03/lectura-comprensiva",
-	"/es/blog/lectura-comprensiva"
-]
+aliases = ['2018/03/lectura-comprensiva', '/es/blog/lectura-comprensiva']
+date = 2018-03-17
+description = 'La lectura comprensiva es una de las principales facultades a desarrollar si se quiere mejorar como persona y profesional...'
+slug = 'lectura-comprensiva'
+title = 'Cómo comprender mejor lo que leemos'
 +++
 
 La **lectura comprensiva** es una de las principales facultades a desarrollar si se quiere mejorar como persona y profesional. Es el arma primaria de los

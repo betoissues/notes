@@ -1,13 +1,10 @@
 +++
-title =      "Instalar CM12 en S3 Mini desde Linux"
-subtitle =   "Cómo utilizar la herramienta Heimdall para instalar CyanogenMod desde Linux."
-description = "Tutorial de cómo se instala CyanogenMod en un S3 Mini desde Linux utilizando Heimdall."
-date =       2015-05-19 
-slug = "instalar-cm-12-s3-mini-linux"
-aliases = [
-	"2015/05/instalar-cm-12-s3-mini-linux",
-	"/es/blog/instalar-cm-12-s3-mini-linux"
-]
+aliases = ['2015/05/instalar-cm-12-s3-mini-linux', '/es/blog/instalar-cm-12-s3-mini-linux']
+date = 2015-05-19
+description = 'Tutorial de cómo se instala CyanogenMod en un S3 Mini desde Linux utilizando Heimdall.'
+slug = 'instalar-cm-12-s3-mini-linux'
+subtitle = 'Cómo utilizar la herramienta Heimdall para instalar CyanogenMod desde Linux.'
+title = 'Instalar CM12 en S3 Mini desde Linux'
 +++
 En este tutorial quiero mostrarles los pasos a seguir para poder instalar el CyanogenMod 12 con el ROM de Lollipop en un S3 Mini (I8190L en mi caso). Para hacer esto, nos vamos a ayudar de la herramienta Heimdall, que es similar al Odin en Windows y además vamos a estar utilizando un ROM de la página [NovaFusion](http://novafusion.pl).
 

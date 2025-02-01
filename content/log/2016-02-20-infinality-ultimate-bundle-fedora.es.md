@@ -1,12 +1,9 @@
 +++
-title = "Infinality Ultimate Bundle para Fedora"
-description = "Infinality es un reemplazo para Cairo, Freetype y Fontconfig, para renderizar el texto en GNU/Linux."
-date = 2016-02-20 
-slug = "infinality-ultimate-bundle-fedora"
-aliases = [
-	"2016/02/20/infinality-ultimate-bundle-fedora",
-	"/es/blog/infinality-ultimate-bundle-fedora"
-]
+aliases = ['2016/02/20/infinality-ultimate-bundle-fedora', '/es/blog/infinality-ultimate-bundle-fedora']
+date = 2016-02-20
+description = 'Infinality es un reemplazo para Cairo, Freetype y Fontconfig, para renderizar el texto en GNU/Linux.'
+slug = 'infinality-ultimate-bundle-fedora'
+title = 'Infinality Ultimate Bundle para Fedora'
 +++
 El último cambio que hice entre distribuciones de GNU/Linux fue entre Ubuntu y
 Fedora. A simple vista, no noté mucha diferencia pues estoy utilizando GNOME 3,

@@ -1,12 +1,9 @@
 +++
-title = "Y tú, ¿ya respaldaste tus datos?"
-description = "Copias de seguridad con tar, gzip y cronjobs en Linux."
-date = 2016-09-18 
-slug = "respaldo-del-sistema"
-aliases = [
-	"2016/09/respaldo-del-sistema",
-	"/es/blog/respaldo-del-sistema"
-]
+aliases = ['2016/09/respaldo-del-sistema', '/es/blog/respaldo-del-sistema']
+date = 2016-09-18
+description = 'Copias de seguridad con tar, gzip y cronjobs en Linux.'
+slug = 'respaldo-del-sistema'
+title = 'Y tú, ¿ya respaldaste tus datos?'
 +++
 
 De acuerdo, escribir "todo lo que tienes" dentro de tu cerebro es algo que aún no encontramos forma de hacer, pero para los apasionados de las computadoras algo similar es su disco duro. Y si eres como yo, que quieres tener un respaldo de tus archivos constantemente este artículo es el indicado.<!-- more -->

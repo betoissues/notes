@@ -1,12 +1,9 @@
 +++
-title = "Soft-skills de un desarrollador de software"
-description = "4 maneras de ser un programador más completo."
-date = 2017-01-06 
-slug = "soft-skills-de-un-desarrollador"
-aliases = [
-	"2017/01/soft-skills-de-un-desarrollador",
-	"/es/blog/soft-skills-de-un-desarrollador"
-]
+aliases = ['2017/01/soft-skills-de-un-desarrollador', '/es/blog/soft-skills-de-un-desarrollador']
+date = 2017-01-06
+description = '4 maneras de ser un programador más completo.'
+slug = 'soft-skills-de-un-desarrollador'
+title = 'Soft-skills de un desarrollador de software'
 +++
 
 Existen deficiencias comunes en nosotros los desarrolladores de software e ingenieros del área. Como estudiante de una facultad de sistemas y parte activa de grupos de desarrolladores en línea, he podido tratar muy de cerca e identificar ciertas habilidades que son menospreciadas y que al mismo tiempo son de las más importantes para un buen desarrollador de software. <!-- more -->

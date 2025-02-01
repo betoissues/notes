@@ -1,12 +1,9 @@
 +++
-title = "Google Chrome a Mozilla Firefox"
-description = "Haciendo el cambio sin dejar rastro."
-date = 2016-10-05 
-slug = "chrome-a-firefox"
-aliases = [
-	"2016/10/chrome-a-firefox",
-	"/es/blog/chrome-a-firefox"
-]
+aliases = ['2016/10/chrome-a-firefox', '/es/blog/chrome-a-firefox']
+date = 2016-10-05
+description = 'Haciendo el cambio sin dejar rastro.'
+slug = 'chrome-a-firefox'
+title = 'Google Chrome a Mozilla Firefox'
 +++
 Decidí probar Firefox como alternativa más personalizable que Chrome o Chromium. Desearía decir que también por el consumo de memoria, pero inevitablemente los navegadores basados en WebKit tienden a tener un alto costo.<!-- more -->
 

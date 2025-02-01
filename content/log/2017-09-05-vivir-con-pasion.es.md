@@ -1,12 +1,9 @@
 +++
-title = "Vivir con pasión"
-description = "Porque somos más humanos de lo que creemos."
-date = 2017-09-05 
-slug = "vivir-con-pasion"
-aliases = [
-	"2017/09/vivir-con-pasion",
-	"/es/blog/vivir-con-pasion"
-]
+aliases = ['2017/09/vivir-con-pasion', '/es/blog/vivir-con-pasion']
+date = 2017-09-05
+description = 'Porque somos más humanos de lo que creemos.'
+slug = 'vivir-con-pasion'
+title = 'Vivir con pasión'
 +++
 
 Y esto es ser; dejar de pensar tanto en el futuro y dedicarnos a vivir.

@@ -1,13 +1,10 @@
 +++
-title =      "Un poco sobre mis estudios"
-subtitle =   "En esta entrada describo un poco mis intenciones académicas y relato un poco sobre mi elección."
-descrption = "Los ideales académicos vistos desde el punto de vista de un joven de 18 años recién ingresado a la universidad y sin idea de lo que puede venir más adelante."
-date =       2015-08-15 
-slug = "sobre-mis-estudios"
-aliases = [
-	"2015/08/sobre-mis-estudios",
-	"/es/blog/sobre-mis-estudios",
-]
+aliases = ['2015/08/sobre-mis-estudios', '/es/blog/sobre-mis-estudios']
+date = 2015-08-15
+descrption = 'Los ideales académicos vistos desde el punto de vista de un joven de 18 años recién ingresado a la universidad y sin idea de lo que puede venir más adelante.'
+slug = 'sobre-mis-estudios'
+subtitle = 'En esta entrada describo un poco mis intenciones académicas y relato un poco sobre mi elección.'
+title = 'Un poco sobre mis estudios'
 +++
 
 Quizás sea un poco tarde para hacer esta entrada en mi blog, pero es algo que no había tomado en cuenta para publicar y que ahora que pasó por mi cabeza, me pareció una buena idea. Así que, hablaré un poco sobre la universidad y mis estudios en general.

@@ -1,12 +1,9 @@
 +++
-title = "Configuración de aerc offline y Gmail con Maildir"
-description = "Configurar aerc, mbsync y msmtp como cliente de correo offline para Gmail"
-date = 2020-12-02 
-slug = "correo-aerc-offline-gmail-maildir"
-aliases = [
-	"2020/12/correo-aerc-offline-gmail-maildir",
-	"/es/blog/correo-aerc-offline-gmail-maildir",
-]
+aliases = ['2020/12/correo-aerc-offline-gmail-maildir', '/es/blog/correo-aerc-offline-gmail-maildir']
+date = 2020-12-02
+description = 'Configurar aerc, mbsync y msmtp como cliente de correo offline para Gmail'
+slug = 'correo-aerc-offline-gmail-maildir'
+title = 'Configuración de aerc offline y Gmail con Maildir'
 +++
 Para los que no saben, siempre estoy buscando alternativas CLI (línea de comando) para mi uso cotidiano, el porqué puedo explicarlo en otro artículo. Entre tantas de soluciones, comencé a utilizar [**aerc**](https://aerc-mail.org/) hace algunos meses, un cliente para correo electrónico.<!-- more -->
 

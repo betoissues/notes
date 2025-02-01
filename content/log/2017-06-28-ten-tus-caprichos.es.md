@@ -1,12 +1,9 @@
 +++
-title = "Ten tus caprichos"
-description = "No necesitas una excusa para querer algo."
-date = 2017-06-28 
-slug = "ten-tus-caprichos"
-aliases = [
-	"2017/06/ten-tus-caprichos",
-	"/es/blog/ten-tus-caprichos",
-]
+aliases = ['2017/06/ten-tus-caprichos', '/es/blog/ten-tus-caprichos']
+date = 2017-06-28
+description = 'No necesitas una excusa para querer algo.'
+slug = 'ten-tus-caprichos'
+title = 'Ten tus caprichos'
 +++
 
 Hace mucho pude observar una conducta bastante común en los humanos, y es que cuando queremos algo que nos parece caprichoso, muchas veces buscamos excusas para pedirlo. <!-- more -->

@@ -1,12 +1,9 @@
 +++
-title = "Pensar demasiado"
-description = "El regalo tras la maldición."
-date = 2017-09-25 
-slug = "pensar-demasiado"
-aliases = [
-	"2017/09/pensar-demasiado",
-	"/es/blog/pensar-demasiado"
-]
+aliases = ['2017/09/pensar-demasiado', '/es/blog/pensar-demasiado']
+date = 2017-09-25
+description = 'El regalo tras la maldición.'
+slug = 'pensar-demasiado'
+title = 'Pensar demasiado'
 +++
 
 Todos tenemos esos días donde nos sentimos como que estamos pensando "demasiado". Algunos de nosotros nos vemos afectados por este hermoso fenómeno diariamente. <!-- more -->

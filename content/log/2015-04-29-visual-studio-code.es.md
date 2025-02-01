@@ -1,13 +1,10 @@
 +++
-title =      "Visual Studio Code"
-subtitle =   "Microsoft amplía su panorama a otras plataformas."
-description = "Microsoft no consigue quedarse atrás con Visual Studio Code y decide abrirse paso en diversas plataformas, incluyendo GNU/Linux para sorpresa de muchos."
-date =       2015-04-29 
-slug = "visual-studio-code"
-aliases = [
-	"2015/04/visual-studio-code",
-	"/es/blog/visual-studio-code"
-]
+aliases = ['2015/04/visual-studio-code', '/es/blog/visual-studio-code']
+date = 2015-04-29
+description = 'Microsoft no consigue quedarse atrás con Visual Studio Code y decide abrirse paso en diversas plataformas, incluyendo GNU/Linux para sorpresa de muchos.'
+slug = 'visual-studio-code'
+subtitle = 'Microsoft amplía su panorama a otras plataformas.'
+title = 'Visual Studio Code'
 +++
 Hace unas horas en un "tuit" de @code se anunció la liberación de un nuevo software multiplataforma de edición de texto llamado Visual Studio Code.
 

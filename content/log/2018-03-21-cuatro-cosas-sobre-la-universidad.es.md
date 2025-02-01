@@ -1,12 +1,9 @@
 +++
-title = "4 cosas que no te dicen de la universidad"
-description = "Recuerdo que estaba sentado en la cafetería viendo los rostros de los estudiantes; no sé si sufriendo, descansando o estresados..."
-date = 2018-03-21 
-slug = "cuatro-cosas-sobre-la-universidad"
-aliases = [
-	"2018/03/cuatro-cosas-sobre-la-universidad",
-	"/es/blog/cuatro-cosas-sobre-la-universidad"
-]
+aliases = ['2018/03/cuatro-cosas-sobre-la-universidad', '/es/blog/cuatro-cosas-sobre-la-universidad']
+date = 2018-03-21
+description = 'Recuerdo que estaba sentado en la cafetería viendo los rostros de los estudiantes; no sé si sufriendo, descansando o estresados...'
+slug = 'cuatro-cosas-sobre-la-universidad'
+title = '4 cosas que no te dicen de la universidad'
 +++
 
 Me encuentro a unos cuantos días de comenzar mi cuarto año de carrera

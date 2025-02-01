@@ -1,13 +1,10 @@
 +++
-title =      "¿Ruby? Primera impresión del lenguaje"
-subtitle =   "Reseña del lenguaje que poco a poco se hace lugar en internet."
-date = 2014-12-09 
-description = "¿Conoces el lenguaje de programación Ruby? A continuación se enumeran 5 características a simple vista que lo han posicionado muy bien."
-slug = "ruby-impresion-del-lenguaje"
-aliases = [
-	"2014/12/ruby-impresion-del-lenguaje",
-	"/es/blog/ruby-impresion-del-lenguaje"
-]
+aliases = ['2014/12/ruby-impresion-del-lenguaje', '/es/blog/ruby-impresion-del-lenguaje']
+date = 2014-12-09
+description = '¿Conoces el lenguaje de programación Ruby? A continuación se enumeran 5 características a simple vista que lo han posicionado muy bien.'
+slug = 'ruby-impresion-del-lenguaje'
+subtitle = 'Reseña del lenguaje que poco a poco se hace lugar en internet.'
+title = '¿Ruby? Primera impresión del lenguaje'
 +++
 Después de haber visto una gran cantidad de limitaciones en PHP y sentir incomodidad al migrar entre bases de datos de Access, SQLite y MySQL; decidí­ probar otro lenguaje para 'backend', por lo que comencé a estudiar Ruby.
 

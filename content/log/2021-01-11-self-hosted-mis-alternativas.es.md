@@ -1,12 +1,9 @@
 +++
-title = "Self-Hosted 0: Mis alternativas de servicios"
-description = "El inicio de una serie donde comparto mi experiencia con alternativas open-source y self-hosted a múltiples servicios"
+aliases = ['2021/01/self-hosted-0-mis-alternativas', '/es/blog/self-hosted-0-mis-alternativas']
 date = 2021-01-11
-slug = "self-hosted-0-mis-alternativas"
-aliases = [
-	"2021/01/self-hosted-0-mis-alternativas",
-	"/es/blog/self-hosted-0-mis-alternativas"
-]
+description = 'El inicio de una serie donde comparto mi experiencia con alternativas open-source y self-hosted a múltiples servicios'
+slug = 'self-hosted-0-mis-alternativas'
+title = 'Self-Hosted 0: Mis alternativas de servicios'
 +++
 Este es el primer artículo que escribo de la serie **Self-hosted** en la cual me dedico a migrar múltiples servicios que utilizo a mis propios servidores. El fin de esta serie es aprender como funcionan estas herramientas/tecnologías, educarme un poco más en materia de administración de servidores y mejorar un poco control sobre mis datos.<!-- more -->
 

@@ -1,13 +1,10 @@
 +++
-title =      "Estructuras de datos - Parte I: Los Nodos"
-subtitle =   "Se describe la unidad básica de las estructuras de datos y se implementa en C++."
-description = "Las estructuras de datos son herramientas de código ampliamente utilizadas. En esta entrada se implementa su unidad básica, el nodo, en el lenguaje C++."
-date =       2015-06-19 
-slug = "estructuras-de-datos-nodos"
-aliases = [
-	"2015/06/estructuras-de-datos-nodos",
-	"/es/blog/estructuras-de-datos-nodos"
-]
+aliases = ['2015/06/estructuras-de-datos-nodos', '/es/blog/estructuras-de-datos-nodos']
+date = 2015-06-19
+description = 'Las estructuras de datos son herramientas de código ampliamente utilizadas. En esta entrada se implementa su unidad básica, el nodo, en el lenguaje C++.'
+slug = 'estructuras-de-datos-nodos'
+subtitle = 'Se describe la unidad básica de las estructuras de datos y se implementa en C++.'
+title = 'Estructuras de datos - Parte I: Los Nodos'
 +++
 
 El día de hoy quiero compartir con ustedes un tema muy importante dentro de la programación y son, las estructuras de datos.

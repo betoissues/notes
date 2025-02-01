@@ -1,12 +1,9 @@
 +++
-title = "El tiempo no espera a nadie"
-description = "Ni a la chica que saltaba a través de él."
-date = 2016-10-03 
-slug = "tiempo-no-espera-a-nadie"
-aliases = [
-	"2016/10/tiempo-no-espera-a-nadie",
-	"/es/blog/tiempo-no-espera-a-nadie"
-]
+aliases = ['2016/10/tiempo-no-espera-a-nadie', '/es/blog/tiempo-no-espera-a-nadie']
+date = 2016-10-03
+description = 'Ni a la chica que saltaba a través de él.'
+slug = 'tiempo-no-espera-a-nadie'
+title = 'El tiempo no espera a nadie'
 +++
 
 _Aunque el reloj de la foto está detenido, aún puedes escuchar el segundero_

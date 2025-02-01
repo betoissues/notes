@@ -1,12 +1,9 @@
 +++
-title = "Self-Hosted: Servidor XMPP con Prosody IM"
-description = "Configuración de un servidor XMPP utilizando Prosody IM como alternativa de mensajería"
+aliases = ['2021/01/self-hosted-servidor-xmpp-prosody-im', '/es/blog/self-hosted-servidor-xmpp-prosody-im']
 date = 2021-01-17
-slug = "self-hosted-servidor-xmpp-prosody-im"
-aliases = [
-	"2021/01/self-hosted-servidor-xmpp-prosody-im",
-	"/es/blog/self-hosted-servidor-xmpp-prosody-im"
-]
+description = 'Configuración de un servidor XMPP utilizando Prosody IM como alternativa de mensajería'
+slug = 'self-hosted-servidor-xmpp-prosody-im'
+title = 'Self-Hosted: Servidor XMPP con Prosody IM'
 +++
 
 Tras los últimos acontecimientos en materia de privacidad, específicamente el caso WhatsApp, donde millones de personas migraron para probar distintas plataformas de mensajería instantánea, me encontré con XMPP.<!-- more -->

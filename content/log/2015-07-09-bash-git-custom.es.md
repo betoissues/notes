@@ -1,13 +1,10 @@
 +++
-title =      "Mi terminal bash personalizada para Git"
-subtitle =   "¿Ya conoces Git? Ahora dale estilo."
-description = "Si utilizas Git mediante Terminal, llegó la hora de darle un empujoncito y mejorarlo con esta personalización."
-date =       2015-07-09 
-slug = "bash-git-custom"
-aliases = [
-	"2015/07/bash-git-custom",
-	"/es/blog/bash-git-custom"
-]
+aliases = ['2015/07/bash-git-custom', '/es/blog/bash-git-custom']
+date = 2015-07-09
+description = 'Si utilizas Git mediante Terminal, llegó la hora de darle un empujoncito y mejorarlo con esta personalización.'
+slug = 'bash-git-custom'
+subtitle = '¿Ya conoces Git? Ahora dale estilo.'
+title = 'Mi terminal bash personalizada para Git'
 +++
 
 Si ya leíste mi entrada anterior sobre [Git y GitHub](/2015/07/git-github/), lo utilizas y eres usuario de Linux, te comparto algunas líneas de la configuración de mi bash para facilitar el trabajo en Git desde la terminal.

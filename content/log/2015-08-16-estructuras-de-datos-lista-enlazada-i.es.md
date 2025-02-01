@@ -1,13 +1,10 @@
 +++
-title =      "Estructuras de datos - Parte II: Lista Enlazada Simple(I)"
-subtitle =   "Implementación sencilla de una lista enlazada simple en C++."
-description = "Las estructuras de datos son herramientas de código ampliamente utilizadas. En esta entrada se implementa una de las más sencillas, la lista enlazada, en el lenguaje C++."
-date =       2015-08-16 
-slug = "estructuras-de-datos-lista-enlazada-i"
-aliases = [
-	"2015/08/estructuras-de-datos-lista-enlazada-i",
-	"/es/blog/estructuras-de-datos-lista-enlazada-i"
-]
+aliases = ['2015/08/estructuras-de-datos-lista-enlazada-i', '/es/blog/estructuras-de-datos-lista-enlazada-i']
+date = 2015-08-16
+description = 'Las estructuras de datos son herramientas de código ampliamente utilizadas. En esta entrada se implementa una de las más sencillas, la lista enlazada, en el lenguaje C++.'
+slug = 'estructuras-de-datos-lista-enlazada-i'
+subtitle = 'Implementación sencilla de una lista enlazada simple en C++.'
+title = 'Estructuras de datos - Parte II: Lista Enlazada Simple(I)'
 +++
 
 Para continuar con las estructuras de datos, te presentaré de manera más formal la que mencioné anteriormente, y es, la lista enlazada.

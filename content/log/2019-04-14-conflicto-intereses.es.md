@@ -1,12 +1,9 @@
 +++
-title = "Conflicto de intereses"
-description = "No sabría decir la cantidad de veces que me he sentado a escribir en este periodo sin éxito alguno."
-date = 2019-04-14 
-slug = "conflicto-intereses"
-aliases = [
-	"2019/04/conflicto-intereses",
-	"/es/blog/conflicto-intereses",
-]
+aliases = ['2019/04/conflicto-intereses', '/es/blog/conflicto-intereses']
+date = 2019-04-14
+description = 'No sabría decir la cantidad de veces que me he sentado a escribir en este periodo sin éxito alguno.'
+slug = 'conflicto-intereses'
+title = 'Conflicto de intereses'
 +++
 Hace poco más de medio año comencé a trabajar en el campo que sigo estudiando y
 aunque debo admitir que he logrado aprender mucho y ha sido una experiencia

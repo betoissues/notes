@@ -1,12 +1,9 @@
 +++
-title = "Software Freedom Day 2017 y Docker"
-description = "Celebración del Sofware Freedom Day 2017 y presentación de Docker en la industria."
-date = 2017-10-08 
-slug = "software-freedom-day-2017-y-docker"
-aliases = [
-	"2017/10/software-freedom-day-2017-y-docker",
-	"/es/blog/software-freedom-day-2017-y-docker"
-]
+aliases = ['2017/10/software-freedom-day-2017-y-docker', '/es/blog/software-freedom-day-2017-y-docker']
+date = 2017-10-08
+description = 'Celebración del Sofware Freedom Day 2017 y presentación de Docker en la industria.'
+slug = 'software-freedom-day-2017-y-docker'
+title = 'Software Freedom Day 2017 y Docker'
 +++
 Como era de esperarse [FLOSS Panamá](http://floss-pa.net) no pudo dejar pasar el Software Freedom Day de este año y aunque un poco tarde, el día de ayer se celebró en la [Universidad Interamericana de Panamá](https://www.uip.edu.pa/) este evento con la participación y colaboración de varias empresas y grupos afines. <!-- more -->
 

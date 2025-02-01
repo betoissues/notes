@@ -1,12 +1,9 @@
 +++
-title = "La primera contribución en open-source"
-description = "Lo importante es dar el primer paso."
-date = 2016-09-21 
-slug = "contribuye-open-source"
-aliases = [
-	"2016/09/contribuye-open-source",
-	"/es/blog/contribuye-open-source"
-]
+aliases = ['2016/09/contribuye-open-source', '/es/blog/contribuye-open-source']
+date = 2016-09-21
+description = 'Lo importante es dar el primer paso.'
+slug = 'contribuye-open-source'
+title = 'La primera contribución en open-source'
 +++
 
 Tienes muchas ganas de participar en proyectos de open source, sin embargo es difícil cuando no sabes en qué proyecto, en qué módulo, con tantos lenguajes que existen.<!-- more -->

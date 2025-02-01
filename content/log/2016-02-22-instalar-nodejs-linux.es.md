@@ -1,12 +1,9 @@
 +++
-title = "Instalación de NodeJS en Linux"
-description = "Se muestran diferentes alternativas para instalar NodeJS en el sistema."
-date = 2016-02-22 
-slug =  "instalar-nodejs-linux"
-aliases = [
-	"2016/02/instalar-nodejs-linux",
-	"/es/blog/instalar-nodejs-linux"
-]
+aliases = ['2016/02/instalar-nodejs-linux', '/es/blog/instalar-nodejs-linux']
+date = 2016-02-22
+description = 'Se muestran diferentes alternativas para instalar NodeJS en el sistema.'
+slug = 'instalar-nodejs-linux'
+title = 'Instalación de NodeJS en Linux'
 +++
 Una de las tecnologías web predominantes durante los últimos años ha sido
 NodeJS, facilitando la creación de aplicaciones web y hasta de escritorio con el

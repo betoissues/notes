@@ -1,13 +1,10 @@
 +++
-title =      "Empezar a utilizar Git con GitHub"
-subtitle =   "¿Deseas nuevas habilidades como desarrollador? Esta herramienta de control de versiones se ha vuelto imprescindible hoy día."
-description = "Git es fundamental para cualquier desarrollador o escritor hoy día, por eso he hecho esta guía básica sobre su uso como controlador de versiones junto con GitHub."
-date =       2015-07-05 
-slug = "git-github"
-aliases = [
-	"2015/07/git-github",
-	"/es/blog/git-github"
-]
+aliases = ['2015/07/git-github', '/es/blog/git-github']
+date = 2015-07-05
+description = 'Git es fundamental para cualquier desarrollador o escritor hoy día, por eso he hecho esta guía básica sobre su uso como controlador de versiones junto con GitHub.'
+slug = 'git-github'
+subtitle = '¿Deseas nuevas habilidades como desarrollador? Esta herramienta de control de versiones se ha vuelto imprescindible hoy día.'
+title = 'Empezar a utilizar Git con GitHub'
 +++
 
 Debido al tutorial sobre estructuras de datos en C++, donde compartí­ el código fuente utilizando la herramienta de [GitHub](http://github.com), muchos han estado pidiéndome que les muestre cómo comenzar a utilizar la herramienta git y en qué consiste la misma; así­ que a eso dedicaré la entrada de hoy.

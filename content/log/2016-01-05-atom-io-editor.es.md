@@ -1,15 +1,12 @@
 +++
-title = "Convierte Atom.io en tu editor por defecto"
-description = "Algunos puntos sobre Atom.io, el editor de texto de GitHub."
-date = 2016-01-05 
-slug = "atom-io-editor"
-aliases = [
-	"2016/01/atom-io-editor",
-	"/es/blog/atom-io-editor"
-]
+aliases = ['2016/01/atom-io-editor', '/es/blog/atom-io-editor']
+date = 2016-01-05
+description = 'Algunos puntos sobre Atom.io, el editor de texto de GitHub.'
+slug = 'atom-io-editor'
+title = 'Convierte Atom.io en tu editor por defecto'
 
 [extra]
-featured_image = '/img/2016/01/atom-io.png'
+  featured_image = '/img/2016/01/atom-io.png'
 +++
 
 NotePad++, Bloc de Notas, Geany, Visual Studio Code, Gedit, Sublime Text y hasta

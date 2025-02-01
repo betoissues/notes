@@ -1,12 +1,9 @@
 +++
-title = "Taller 00 #PreLinuxDay2016"
-description = "El pasado sábado 11 de junio de 2016 se llevó a cabo el primer taller #PreLinuxDay2016."
-date = 2016-06-16 
-slug = "taller-00-prelinuxday"
-aliases = [
-	"/2016/06/taller-00-prelinuxday",
-	"/es/blog/taller-00-prelinuxday"
-]
+aliases = ['/2016/06/taller-00-prelinuxday', '/es/blog/taller-00-prelinuxday']
+date = 2016-06-16
+description = 'El pasado sábado 11 de junio de 2016 se llevó a cabo el primer taller #PreLinuxDay2016.'
+slug = 'taller-00-prelinuxday'
+title = 'Taller 00 #PreLinuxDay2016'
 +++
 El sábado pasado asistí a un taller organizado por [FLOSS Panamá](https://www.floss-pa.net/) en las instalaciones de la Universidad Interamericana de Panamá (UIP). El mismo se trató sobre una introducción a Git y GitHub, en donde varias personas tuvieron la oportunidad de conocer un poco la herramienta y comenzar a utilizarla. <!-- more -->
 

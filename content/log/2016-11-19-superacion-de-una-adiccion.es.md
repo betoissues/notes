@@ -1,12 +1,9 @@
 +++
-title = "Superación de una adicción"
-description = "Dando valor a nuestro tiempo."
-date = 2016-11-19 
-slug = "superacion-de-una-adiccion"
-aliases = [
-	"2016/11/supeeracion-de-una-adiccion",
-	"/es/blog/supeeracion-de-una-adiccion"
-]
+aliases = ['2016/11/supeeracion-de-una-adiccion', '/es/blog/supeeracion-de-una-adiccion']
+date = 2016-11-19
+description = 'Dando valor a nuestro tiempo.'
+slug = 'superacion-de-una-adiccion'
+title = 'Superación de una adicción'
 +++
 Hace algún tiempo comenté en Reddit a una persona que quería controlar su adicción a los videojuegos; algo común y con lo que me sentí identificado.<!-- more -->
 

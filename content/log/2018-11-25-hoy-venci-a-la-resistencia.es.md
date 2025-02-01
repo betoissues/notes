@@ -1,12 +1,9 @@
 +++
-title = "Hoy vencí a la resistencia"
-description = "Luego de varios meses sin lograr escribir nada, estoy sentado esta tarde intentando retomar..."
-date = 2018-11-25 
-slug = "hoy-venci-a-la-resistencia"
-aliases = [
-	"2018/11/hoy-venci-a-la-resistencia",
-	"/es/blog/hoy-venci-a-la-resistencia"
-]
+aliases = ['2018/11/hoy-venci-a-la-resistencia', '/es/blog/hoy-venci-a-la-resistencia']
+date = 2018-11-25
+description = 'Luego de varios meses sin lograr escribir nada, estoy sentado esta tarde intentando retomar...'
+slug = 'hoy-venci-a-la-resistencia'
+title = 'Hoy vencí a la resistencia'
 +++
 
 Luego de varios meses sin lograr escribir nada estoy intentando retomar algo que

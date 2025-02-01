@@ -1,12 +1,9 @@
 +++
-title = "Self-Hosted: Configuración Inicial del Servidor"
-description = "Primeras tareas a realizar en la configuración de un servidor recién inicializado"
+aliases = ['2021/01/self-hosted-configuracion-inicial-servidor', '/es/blog/self-hosted-configuracion-inicial-servidor']
 date = 2021-01-13
-slug = "self-hosted-configuracion-inicial-servidor"
-aliases = [
-	"2021/01/self-hosted-configuracion-inicial-servidor",
-	"/es/blog/self-hosted-configuracion-inicial-servidor"
-]
+description = 'Primeras tareas a realizar en la configuración de un servidor recién inicializado'
+slug = 'self-hosted-configuracion-inicial-servidor'
+title = 'Self-Hosted: Configuración Inicial del Servidor'
 +++
 Como inicio de la serie [self-hosted](/2021/01/self-hosted-0-mis-alternativas/) el plan era comenzar con la instalación de los servicios directamente, pero ya que estaré también migrando a [Hetzner](https://www.hetzner.com) decidí hacer una lista de las tareas a realizar una vez inicializado el servidor.<!-- more -->
 

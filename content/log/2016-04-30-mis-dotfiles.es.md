@@ -1,12 +1,9 @@
 +++
-title = "Mis dotfiles"
-description = "GNU Stow, mis dotfiles y algunos scripts que utilizo en mi día a día."
-date = 2016-04-30 
-slug = "mis-dotfiles"
-aliases = [
-	"/2016/04/mis-dotfiles",
-	"/es/blog/mis-dotfiles"
-]
+aliases = ['/2016/04/mis-dotfiles', '/es/blog/mis-dotfiles']
+date = 2016-04-30
+description = 'GNU Stow, mis dotfiles y algunos scripts que utilizo en mi día a día.'
+slug = 'mis-dotfiles'
+title = 'Mis dotfiles'
 +++
 Unix y sus sistemas derivados utilizan los que conocemos como *dotfiles*, "archivos punto u ocultos" en español, pero no planeo utilizar esa traducción barata; lo importante es la función que cumplen estos archivos. <!-- more -->Los dotfiles son los ficheros en los que generalmente se guarda la configuración de los programas a ejecutar. Otra característica de estos archivos o directorios es que si no tiene habilitada una opción para ver los ficheros ocultos, podrás pasarlos totalmente por alto; `$ ls -a` es un ejemplo para verlos. 
 

@@ -1,12 +1,9 @@
 +++
-title = "Vim y su reputación bien ganada"
-description = "¿Por qué Vim con tantos nuevos editores?"
-date = 2017-01-05 
-slug = "vim-reputacion-bien-ganada"
-aliases = [
-	"2017/01/vim-reputacion-bien-ganada",
-	"/es/blog/vim-reputacion-bien-ganada"
-]
+aliases = ['2017/01/vim-reputacion-bien-ganada', '/es/blog/vim-reputacion-bien-ganada']
+date = 2017-01-05
+description = '¿Por qué Vim con tantos nuevos editores?'
+slug = 'vim-reputacion-bien-ganada'
+title = 'Vim y su reputación bien ganada'
 +++
 Vi es un editor de texto por modos, altamente personalizable y enfocado a la eficiencia de la edición. Hoy día lo más común es encontrarse con Vim (Vi Improved) en sistemas operativos basados en UNIX.<!-- more -->
 

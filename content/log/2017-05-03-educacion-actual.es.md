@@ -1,12 +1,9 @@
 +++
-title = "Educación actual [2012]"
-description = "Una reflexión que escribí en 2012 sobre la educación y que sigo creyendo válida."
-date = 2017-05-03 
-slug = "educacion-actual"
-aliases = [
-	"2017/05/educacion-actual",
-	"/es/blog/educacion-actual"
-]
+aliases = ['2017/05/educacion-actual', '/es/blog/educacion-actual']
+date = 2017-05-03
+description = 'Una reflexión que escribí en 2012 sobre la educación y que sigo creyendo válida.'
+slug = 'educacion-actual'
+title = 'Educación actual [2012]'
 +++
 Para empezar esto me gustaría citar una frase de Albert Einsten: "Todo mundo es un genio; pero si vas a evaluar a un pez por su capacidad de escalar árboles, pasará toda su vida creyendo que es un inútil" <!-- more -->
 

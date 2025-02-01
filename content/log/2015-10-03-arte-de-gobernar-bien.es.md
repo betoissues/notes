@@ -1,13 +1,10 @@
 +++
-title = "El arte de gobernar bien"
-subtitle = "El secreto que desconocen los políticos"
-description = "El secreto que desconocen los políticos."
-date = 2015-10-03 
-slug = "arte-de-gobernar-bien"
-aliases = [
-	"2015/10/arte-de-gobernar-bien",
-	"/es/blog/arte-de-gobernar-bien"
-]
+aliases = ['2015/10/arte-de-gobernar-bien', '/es/blog/arte-de-gobernar-bien']
+date = 2015-10-03
+description = 'El secreto que desconocen los políticos.'
+slug = 'arte-de-gobernar-bien'
+subtitle = 'El secreto que desconocen los políticos'
+title = 'El arte de gobernar bien'
 +++
 El arte de gobernar puede ser un tema bastante extenso, con miles de posibilidades, pero en este caso quiero enfocarme con mayor precisión al arte de gobernar bien, más específicamente al cómo gobernar bien. A lo largo de la historia han existido tanto buenos como malos gobernantes, cada uno con sus características y distintos puntos de vista, mas independientemente de cuál haya sido su postura política o su ideología (ya que gobernar no es sólo en el campo político), hay aspectos positivos que se pueden tomar para desarrollar con mayor plenitud el arte de gobernar bien.
 <!-- more -->

@@ -1,9 +1,9 @@
 +++
-title = "Enfoque en un Mundo Desenfocado"
-description = "Primeros pasos para enfocarte y ser más productivo en un mundo lleno de ruido."
-date = 2024-06-21
-slug = "enfoque-en-mundo-desenfocado"
 aliases = ['/es/blog/enfoque-en-un-mundo-desenfocado']
+date = 2024-06-21
+description = 'Primeros pasos para enfocarte y ser más productivo en un mundo lleno de ruido.'
+slug = 'enfoque-en-mundo-desenfocado'
+title = 'Enfoque en un Mundo Desenfocado'
 +++
 
 Uno de los primeros libros que leí este año fue Deep Work por Cal Newport, el cual comencé por curiosidad gracias a los temas tratados en su podcast, Deep Questions. El libro me hizo pensar en cómo mejorar mi concentración en un mundo tan lleno de distracciones.

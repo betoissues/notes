@@ -1,13 +1,10 @@
 +++
-title =      "Cómo crear una presencia en línea"
-subtitle =   "5 consejos para lograrlo."
-description = "Consejos para todo aquel que desee ganarse su espacio dentro de las redes sociales."
-date =       2015-10-10 
-slug = "como-crear-una-presencia-en-linea"
-aliases = [
-	"2015/10/como-crear-una-presencia-en-linea",
-	"/es/blog/como-crear-una-presencia-en-linea"
-]
+aliases = ['2015/10/como-crear-una-presencia-en-linea', '/es/blog/como-crear-una-presencia-en-linea']
+date = 2015-10-10
+description = 'Consejos para todo aquel que desee ganarse su espacio dentro de las redes sociales.'
+slug = 'como-crear-una-presencia-en-linea'
+subtitle = '5 consejos para lograrlo.'
+title = 'Cómo crear una presencia en línea'
 +++
 
 Encontré decenas de prácticas que se utilizan para mejorar la relevancia en línea y decidí hacer una selección de las cinco, que por experiencia propia, he calificado como las que mejor me han funcionado y espero a ti también te ayuden a abrirte espacio en internet.
