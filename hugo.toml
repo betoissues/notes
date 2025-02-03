@@ -5,6 +5,38 @@ theme = "smol"
 enableRobotsTXT = false
 #canonifyurls = true
 
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+#[languages]
+#  [languages.en]
+#    disabled = false
+#    languageCode = 'en-US'
+#    languageDirection = 'ltr'
+#    languageName = 'English'
+#    title = 'betoissues'
+#    weight = 1
+#    [languages.en.params]
+#      description = "my nerd corner, notes and dev logs directly from my obsidian vault"
+#      author = "Alberto Castillo"
+#      dateFmt = "2006-01-02"
+#      customCss = ["css/custom.css"]
+#      images = ['betoissues_default_square.png', 'profile.jpg']
+#      title = 'betoissues'
+#  [languages.es]
+#    disabled = false
+#    languageCode = 'es-ES'
+#    languageDirection = 'ltr'
+#    languageName = 'Español'
+#    title = 'betoissues'
+#    weight = 2
+#    [languages.es.params]
+#      description = "my nerd corner, notes and dev logs directly from my obsidian vault"
+#      author = "Alberto Castillo"
+#      dateFmt = "2006-01-02"
+#      customCss = ["css/custom.css"]
+#      images = ['betoissues_default_square.png', 'profile.jpg']
+#      title = 'betoissues'
+
 [markup]
 defaultMarkdownHandler = 'goldmark'
   [markup.highlight]
