@@ -43,6 +43,5 @@ Model           : Raspberry Pi Model B Rev 2
 ````
 
 [^1]: Found this magazine exploring different webrings during the weekend. Might even consider joining one.
-    
 
 [^2]: Made it fairly easy to install Ubuntu (which only led to rainbow screen) and Raspbian in less than 20 minutes.

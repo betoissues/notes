@@ -7,12 +7,19 @@ title = 'Linux Kernel'
 
 ## Linux Kernel
 
-## Pending to check
+## Compiling
+
+**Packages missing after archlinux installation**
+
+* bc
+* cpio
+
+## Pending Topics
 
 This is a sort of *reading list* of topics I've seen mentioned while studying and should be checked later. I'll try to keep the list ordered by priority based on the reference I've read about it.
 
-* [sysfs](https://docs.kernel.org/filesystems/sysfs.html)
-* [core-api/workqueue](https://www.kernel.org/doc/html/latest/core-api/workqueue.html)
+* [x] [sysfs](https://docs.kernel.org/filesystems/sysfs.html): pseuf-filesystem mounted at `/sys`.
+* [ ] [core-api/workqueue](https://www.kernel.org/doc/html/latest/core-api/workqueue.html)
 
 ## Links
 

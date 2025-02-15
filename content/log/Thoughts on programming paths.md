@@ -22,12 +22,9 @@ As for the sysadmin part of things, I did a bit of experimentation with Grafana,
 This "log" is an attempt to be more conscious and include some sort of accountability about the progress I do in tech, so hopefully there will be news about my most recent learnings along this path.
 
 [^1]: [Goditor](https://github.com/betoissues/goditor)
-    
 
 [^2]: [OS Dev](https://wiki.osdev.org/Main_Page)
-    
 
 [^3]: [Setting up monitoring with Grafana](./Setting%20up%20monitoring%20with%20Grafana.md)
-    
 
 [^4]: [Kubernetes](../notes/Kubernetes.md)

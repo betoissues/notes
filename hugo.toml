@@ -1,4 +1,4 @@
-baseURL = 'https://notes.betoissues.com/'
+baseURL = 'https://www.betoissues.com/'
 languageCode = 'en-us'
 title = "betoissues"
 theme = "smol"

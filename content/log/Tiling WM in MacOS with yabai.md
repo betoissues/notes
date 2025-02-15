@@ -38,18 +38,13 @@ shift + alt - k : yabai -m window --swap north
 The configuration for yabai and skhd is fairly straightforward, and I've included it in my dotfiles repository[^6].
 
 [^1]: [Rectangle](https://rectangleapp.com)
-    
 
 [^2]: [2bwm](https://github.com/venam/2bwm)
-    
 
 [^3]: [Amethyst](https://github.com/ianyh/Amethyst)
-    
 
 [^4]: [yabai](https://github.com/koekeishiya/yabai)
-    
 
 [^5]: [skhd](https://github.com/koekeishiya/skhd)
-    
 
 [^6]: [My dotfiles repository](https://github.com/betoissues/config/tree/master/macos-wm)

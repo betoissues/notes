@@ -59,6 +59,5 @@ It's easier to think about threads as the sequential steps for any particular ta
 ## References
 
 [^1]: [The Case of Threads vs Events](https://berb.github.io/diploma-thesis/original/043_threadsevents.html)
-    
 
 [^2]: [Why Threads Are A Bad Idea (for most purposes)](https://web.stanford.edu/~ouster/cgi-bin/papers/threads.pdf) -- OUSTERHOUT, John: Why Threads are a Bad Idea (for most purposes),: USENIX Winter Technical Conference

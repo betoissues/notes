@@ -35,9 +35,7 @@ I've enabled [openring](https://sr.ht/~sircmpwn/openring/) for this website[^3].
 This list is actually a subset of my full list, only including my favorite ones. I'll try to keep it updated and shared [over here](/openring-links.txt).
 
 [^1]: This is open at the moment, using [PrivateBin](https://privatebin.info/), Backblaze storage and 1 week max lifetime for the bins.
-    
 
 [^2]: Runs on [rustypaste](https://github.com/orhun/rustypaste), expiration is 1 hour, and required an authorization key to use. I still want to improve this service, at the moment it's only being used by myself for quick shares over IRC.
-    
 
 [^3]: Openring works with RSS feeds, so there are no backlinks from other people to my site. The idea is similar to webrings, which I've thought about joining too, just not a priority as I still figure out whether to make this site my online homepage.
