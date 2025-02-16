@@ -47,12 +47,13 @@ defaultMarkdownHandler = 'goldmark'
     hl_inline = false
     lineAnchors = ''
     lineNoStart = 1
-    lineNos = true
+    lineNos = false
     lineNumbersInTable = false
-    noClasses = true
+    noClasses = false
     noHl = true
-    style = 'gruvbox'
+    style = 'bw'
     tabWidth = 4
+    wrapperClass = 'highlight'
 
 # Parameters
 [params]
