@@ -8,6 +8,7 @@
 				{{ range first 5 (where .Site.RegularPages "Section" "log") }} <li>{{ .Date.Format "2006-01-02"}}: <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
 				{{ end }}
 			</ul>
+			<a href="/log/">more logs...</a>
 		</div>
 	</div>
 </aside>

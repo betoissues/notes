@@ -5,6 +5,11 @@ theme = "smol"
 enableRobotsTXT = false
 #canonifyurls = true
 
+[pagination]
+  disableAliases = false
+  pagerSize = 25
+  path = 'page'
+
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 #[languages]
