@@ -28,3 +28,11 @@ lf = items stored / array size
 ````
 
 There's also **closed-addressing**, where each index value is a pointer to the data we're storing. When there's a collision, the incoming item is stored in the respective linked list.
+
+## Resources
+
+[CMSI 2120: Data Structures](https://cs.lmu.edu/~ray/classes/dsa/)
+[Trees](https://cs.lmu.edu/~ray/notes/trees/)
+[Search Trees](https://cs.lmu.edu/~ray/notes/searchtrees/)
+[Graph Algorithms](https://cs.lmu.edu/~ray/notes/graphalgorithms/)
+[Algorithmic Patterns](https://cs.lmu.edu/~ray/notes/algpatterns/)

@@ -97,6 +97,10 @@ Semaphores "hold" the resources available and *lends* them to threads so they ca
 
 A good read about semaphores is Julie Zelenski's "Threads and Semaphores Example"[^6], outlining different examples on how semaphores are used, and the separation between a general and a binary semaphore.
 
+## Resources
+
+[CMSI 673: Concurrent and Distributed Programming](https://cs.lmu.edu/~ray/classes/cdp/)
+
 [^1]: [Actor model - Wikipedia](https://en.wikipedia.org/wiki/Actor_model#Message-passing_semantics)
 
 [^2]: [Interrupt Handlers](https://tldp.org/LDP/lkmpg/2.6/html/x1256.html)
