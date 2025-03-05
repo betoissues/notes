@@ -24,7 +24,7 @@
 	{{ with .OutputFormats.Get "RSS" -}}
 		{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
 	{{- end }}
-    <script defer src="https://analytics.betoissues.com/script.js" data-website-id="75029671-5ba6-4506-8645-0763b24f0a77"></script>
+    <script defer src="https://analytics.betoissues.com/script.js" data-website-id="75029671-5ba6-4506-8645-0763b24f0a77" data-domains="www.betoissues.com,betoissues.com"></script>
 </head>
 <body>
 	{{ partial "header" . }}
