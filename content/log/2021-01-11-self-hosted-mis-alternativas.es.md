@@ -91,7 +91,7 @@ En mi caso, esta es la lista, la cual iré enlazando a medida que vaya subiendo 
 - **Sitios estáticos**: este blog en algún momento lo moveré de Netlify.
 - **Matrix / XMPP**: entre estos dos todavía tengo que decidir, de momento solo tengo habilitada una cuenta de XMPP para probar(~~`betoissues@nixnet.xyz` `beto@argonauts.space`~~). ~~En el caso de XMPP, estaría considerando utilizar [ejabberd](https://www.ejabberd.im/) y [Prosody IM](http://prosody.im/).~~ Me adelanté y quedé instalando Prosody como una prueba en Hetzner. [**Ver artículo**](/log/2021-01-17-self-hosted-servidor-xmpp-prosody-im.es.md)
 - **Wallabag**: es un administrador de marcadores, actualmente lo utilizo más que todo para guardar enlaces para leer más tarde.
-- **Mastodon**: no es realmente necesario, pero sería interesante configurar una instancia personal solo por tener la experiencia. Mi cuenta actual se encuentra en `@betoissues@fosstodon.org`.
+- **Mastodon**: no es realmente necesario, pero sería interesante configurar una instancia personal solo por tener la experiencia. Mi cuenta actual se encuentra en `@beto@gts.nixden.net`.
 - **Pixelfed**: similar a lo que me sucede con Mastodon, pero en el caso de Pixelfed no poseo ninguna cuenta actualmente ya que los servidores que encontré no me convencieron.
 
 - - -

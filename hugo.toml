@@ -67,8 +67,8 @@ defaultMarkdownHandler = 'goldmark'
     weight = 1
 
 [[menu.footer]]
-    name = "mastodon"
-    url = "https://fosstodon.org/@betoissues"
+    name = "gotosocial"
+    url = "https://gts.nixden.net/@beto"
     weight = 2
 
 [outputs]
